@@ -1,3 +1,0 @@
-C:/Users/Yitian/Projects/design-patterns/singleton/cpp/build/CMakeFiles/singleton.dir
-C:/Users/Yitian/Projects/design-patterns/singleton/cpp/build/CMakeFiles/edit_cache.dir
-C:/Users/Yitian/Projects/design-patterns/singleton/cpp/build/CMakeFiles/rebuild_cache.dir
