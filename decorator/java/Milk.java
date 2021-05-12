@@ -1,5 +1,3 @@
-package decorator.java;
-
 public class Milk extends CondimentDecorator{
     Beverage beverage;
 

@@ -1,5 +1,3 @@
-package decorator.java;
-
 public class Soy extends CondimentDecorator{
     Beverage beverage;
 

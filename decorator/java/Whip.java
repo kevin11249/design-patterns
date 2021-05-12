@@ -1,5 +1,3 @@
-package decorator.java;
-
 public class Whip extends CondimentDecorator{
     Beverage beverage;
 

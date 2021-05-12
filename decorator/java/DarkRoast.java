@@ -1,5 +1,3 @@
-package decorator.java;
-
 public class DarkRoast extends Beverage{
     public DarkRoast(){
         description = "DarkRoast";
